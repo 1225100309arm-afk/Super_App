@@ -6,8 +6,6 @@ Super app de Dolores Hidalgo (monedero, comercio, transporte, mensajería, lealt
 
 
 
-## Ciclo TDD
-🔴 **ROJO:** se mete el código malo y la prueba falla → 🟢 **VERDE:** se pone el código bueno y pasan las **106 pruebas**.
 
 
 
